@@ -1,3 +1,5 @@
 archivo_datos.txt
 mi_carpeta_privada/
 *.log
+carpeta_secreta/ 
+*.log 
